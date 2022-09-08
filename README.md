@@ -1,9 +1,11 @@
 # clinical_trials_api
 Example API for clinical trial studies using Python - Django
+
 Endpoint: http://127.0.0.1:8000/api/study-items/
+
 Get/Patch/Delete endpoints for specific ids: http://127.0.0.1:8000/api/study-items/{id}
 
-Setting up Django:
+# Setting up Django:
 mkdir clinical_trials_api
 cd clinical_trials_api
 
